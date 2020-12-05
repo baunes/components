@@ -1952,10 +1952,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/run-sequence@^0.0.29":
-  version "0.0.29"
-  resolved "https://registry.yarnpkg.com/@types/run-sequence/-/run-sequence-0.0.29.tgz#6ad0f7383136e13925322e69fc41db77b30b2075"
-  integrity sha1-atD3ODE24TklMi5p/EHbd7MLIHU=
+"@types/run-sequence@^0.0.30":
+  version "0.0.30"
+  resolved "https://registry.yarnpkg.com/@types/run-sequence/-/run-sequence-0.0.30.tgz#b3a90c9fd29a5eede58135dd025eb3ac4bbb560e"
+  integrity sha512-XwGr1b4yCGUILKeBkzmeWcxmGHQ0vFFFpA6D6y1yLO6gKmYorF+PHqdU5KG+nWt38OvtrkDptmrSmlHX/XtpLw==
   dependencies:
     "@types/gulp" "*"
     "@types/node" "*"
